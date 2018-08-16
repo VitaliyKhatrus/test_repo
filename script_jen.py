@@ -3,7 +3,6 @@
 import sys
 
 
-
 path = sys.path
 
 for c, value in enumerate(path, 1):
